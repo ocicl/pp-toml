@@ -1,0 +1,10 @@
+* pp-toml
+
+Paul's Parser for Tom's Own Minimal Language
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/pnathan/pp-toml.git   |
+| commit  | 54f7d08  |
+| systems | pp-toml |
+|---------+-------------------------------------------|
+
